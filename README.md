@@ -12,6 +12,7 @@ It's a nice website in which you can solve many exercises and learn theory (prog
   <li>Black Jack</li>
   <li>Grains</li>
   <li>Armstrong Number</li>
+  <li>Collatz Conjecture</li>
 </ul>
 
 
