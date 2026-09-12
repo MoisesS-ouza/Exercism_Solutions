@@ -11,6 +11,7 @@ It's a nice website in which you can solve many exercises and learn theory (prog
   <li>Hello World</li>
   <li>Black Jack</li>
   <li>Grains</li>
+  <li>Armstrong Number</li>
 </ul>
 
 
