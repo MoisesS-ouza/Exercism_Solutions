@@ -13,6 +13,7 @@ It's a nice website in which you can solve many exercises and learn theory (prog
   <li>Grains</li>
   <li>Armstrong Number</li>
   <li>Collatz Conjecture</li>
+  <li>Leap Year</li>
 </ul>
 
 
