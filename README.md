@@ -1,6 +1,6 @@
 # Exercism Solutions
 I created this repository to show my Exercism (https://exercism.org/) exercises' solutions. <br>
-It's a nice site in which you can solve many exercises and learn theory (programming languages' info) at the same time. <br>
+It's a nice website in which you can solve many exercises and learn theory (programming languages' info) at the same time. <br>
 <br>
 <h2>Exercises Solved:</h2>
 <ul>
