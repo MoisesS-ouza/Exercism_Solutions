@@ -20,6 +20,7 @@ It's a nice website in which you can solve many exercises and learn theory (prog
   <li>Pig Latin</li>
   <li>Darts</li>
   <li>Perfect Number</li>
+  <li>ISBN Verifier</li>
 </ul>
 
 
