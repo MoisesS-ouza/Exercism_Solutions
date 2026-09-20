@@ -21,6 +21,7 @@ It's a nice website in which you can solve many exercises and learn theory (prog
   <li>Darts</li>
   <li>Perfect Number</li>
   <li>ISBN Verifier</li>
+  <li>Rotational Cipher</li>
 </ul>
 
 
