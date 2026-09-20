@@ -22,6 +22,8 @@ It's a nice website in which you can solve many exercises and learn theory (prog
   <li>Perfect Number</li>
   <li>ISBN Verifier</li>
   <li>Rotational Cipher</li>
+  <li>Little Sister's Essay</li>
+  <li>Card Games</li>
 </ul>
 
 
